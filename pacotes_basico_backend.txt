@@ -1,0 +1,3 @@
+pacotes basicos para baixar
+
+npm install --save express mongoose cors body-parser faker bcrypt jsonwebtoken
